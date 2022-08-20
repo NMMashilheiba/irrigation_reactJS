@@ -1,0 +1,7 @@
+.mainDash {
+  display: flex;
+  flex-direction: column;
+}
+.colll {
+  background-color: rgb(0, 255, 30);
+}

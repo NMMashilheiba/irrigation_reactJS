@@ -1,13 +1,15 @@
 import "./App.css";
+import MainDash from "./components/MainDash/MainDash";
 import Sidebar from "./components/Sidebar/Sidebar";
+import Timer from "./components/System/System";
 
 function App() {
   return (
     <div className="App">
       <div className="AppGlass">
         <Sidebar />
-        <div>col 2</div>
-        <div>col 3</div>
+        <MainDash />
+        <Timer />
       </div>
     </div>
   );

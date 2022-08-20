@@ -27,6 +27,6 @@
   border-radius: 1.5rem;
   background-color: var(--glass);
   overflow: hidden;
-  grid-template-columns: 15rem auto 25rem;
-  gap: 1rem;
+  grid-template-columns: 10rem 40rem auto;
+  gap: 1.5rem;
 }
